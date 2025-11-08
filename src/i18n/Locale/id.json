@@ -1,0 +1,18 @@
+{
+  "greeting": "Situs Resmi Easybajo.com - Wisata Labuan Bajo Terlengkap",
+  "nav": {
+    "home": "Beranda",
+    "destination": "Destinasi",
+    "accommodation": "Akomodasi",
+    "testimonials": "Testimoni",
+    "about": "Tentang Kami",
+    "contact": "Hubungi Kami"
+  },
+
+  "home": {
+    "title1": "Jelajahi Keindahan Labuan Bajo",
+    "title2": "Temukan pengalaman perjalanan tak terlupakan dengan destinasi eksotis dan akomodasi terbaik di Labuan Bajo",
+    "button1": "Jelajahi Destinasi",
+    "button2": "WhatsApp"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "greeting": "Sitio Web Oficial de Easybajo.com - Turismo Completo en Labuan Bajo",
+  "nav": {
+    "home": "Inicio",
+    "destination": "Destinos",
+    "accommodation": "Alojamientos",
+    "testimonials": "Testimonios",
+    "about": "Sobre Nosotros",
+    "contact": "Contacto"
+  },
+
+  "home": {
+    "title1": "Explora la Belleza de Labuan Bajo",
+    "title2": "Descubre experiencias de viaje inolvidables con destinos exóticos y los mejores alojamientos en Labuan Bajo",
+    "button1": "Explorar Destinos",
+    "button2": "WhatsApp"
+  }
+}

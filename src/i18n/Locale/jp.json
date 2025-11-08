@@ -1,0 +1,18 @@
+{
+  "greeting": "Easybajo.com公式サイト - ラブアンバジョの完全な観光情報",
+  "nav": {
+    "home": "ホーム",
+    "destination": "観光地",
+    "accommodation": "宿泊施設",
+    "testimonials": "お客様の声",
+    "about": "私たちについて",
+    "contact": "お問い合わせ"
+  },
+
+  "home": {
+    "title1": "ラブアンバジョの美しさを探る",
+    "title2": "エキゾチックな目的地とラブアンバジョで最高の宿泊施設で、忘れられない旅行体験を発見してください",
+    "button1": "観光地を探す",
+    "button2": "WhatsApp"
+  }
+}

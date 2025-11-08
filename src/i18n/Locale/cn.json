@@ -1,0 +1,18 @@
+{
+  "greeting": "Easybajo.com 官方网站 - 完整的纳闽巴霍旅游",
+  "nav": {
+    "home": "首页",
+    "destination": "目的地",
+    "accommodation": "住宿",
+    "testimonials": "客户评价",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+
+  "home": {
+    "title1": "探索纳闽巴霍的美丽",
+    "title2": "在纳闽巴霍发现难忘的旅行体验、异国情调的目的地和最佳住宿",
+    "button1": "探索目的地",
+    "button2": "WhatsApp"
+  }
+}
